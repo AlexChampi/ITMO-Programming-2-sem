@@ -1,0 +1,109 @@
+1
+1
+-2 -2 -2
+ Side 1 color WHITE
+ Side 4 color RED
+ Side 5 color BLUE
+2
+-2 -2 0
+ Side 1 color ORANGE
+ Side 5 color BLUE
+3
+-2 -2 2
+ Side 1 color ORANGE
+ Side 2 color YELLOW
+ Side 5 color BLUE
+4
+-2 0 -2
+ Side 1 color YELLOW
+ Side 4 color ORANGE
+5
+-2 0 0
+ Side 1 color BLUE
+6
+-2 0 2
+ Side 1 color BLUE
+ Side 2 color RED
+7
+-2 2 -2
+ Side 0 color YELLOW
+ Side 1 color RED
+ Side 4 color BLUE
+8
+-2 2 0
+ Side 0 color YELLOW
+ Side 1 color RED
+9
+-2 2 2
+ Side 0 color GREEN
+ Side 1 color RED
+ Side 2 color WHITE
+10
+0 -2 -2
+ Side 4 color GREEN
+ Side 5 color RED
+11
+0 -2 0
+ Side 5 color WHITE
+12
+0 -2 2
+ Side 2 color ORANGE
+ Side 5 color WHITE
+13
+0 0 -2
+ Side 4 color ORANGE
+14
+0 0 2
+ Side 2 color RED
+15
+0 2 -2
+ Side 0 color YELLOW
+ Side 4 color BLUE
+16
+0 2 0
+ Side 0 color YELLOW
+17
+0 2 2
+ Side 0 color GREEN
+ Side 2 color WHITE
+18
+2 -2 -2
+ Side 3 color YELLOW
+ Side 4 color GREEN
+ Side 5 color RED
+19
+2 -2 0
+ Side 3 color BLUE
+ Side 5 color WHITE
+20
+2 -2 2
+ Side 2 color ORANGE
+ Side 3 color BLUE
+ Side 5 color WHITE
+21
+2 0 -2
+ Side 3 color RED
+ Side 4 color WHITE
+22
+2 0 0
+ Side 3 color GREEN
+23
+2 0 2
+ Side 2 color YELLOW
+ Side 3 color GREEN
+24
+2 2 -2
+ Side 0 color GREEN
+ Side 3 color ORANGE
+ Side 4 color YELLOW
+25
+2 2 0
+ Side 0 color GREEN
+ Side 3 color ORANGE
+26
+2 2 2
+ Side 0 color GREEN
+ Side 2 color WHITE
+ Side 3 color ORANGE
+
+B U' B' F F U' F' F' R R U' R' R' U F F U' F' F' U U' R' F R U U U' B' R B U U U' L' B L U U U' F' L F U U U U U B' U' B R' U' R U R' U' R U R U R' R' U' R U R' U' R B U' B' U U U L' U' L L U L' U U B U B' U U U U U U U U' L' U L U F U' F' U U' R' U R U B U' B' U U U' F' U F U R U' R' U U U U L U' L' U' B' U B U U U U U R B U B' U' R' U F' U' U' F U F' U F U R' U' U' R U R' U R F' L' F R' F' L F R B' R' B L' B' R B L U R F' R' F R F' R' F U R F' R' F R F' R' F U R F' R' F R F' R' F U 

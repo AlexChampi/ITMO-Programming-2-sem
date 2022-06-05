@@ -1,0 +1,3 @@
+/home/alekschamp/CLionProject/cubik_rubik/cmake-build-debug/CMakeFiles/cubik_rubik.dir
+/home/alekschamp/CLionProject/cubik_rubik/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alekschamp/CLionProject/cubik_rubik/cmake-build-debug/CMakeFiles/rebuild_cache.dir

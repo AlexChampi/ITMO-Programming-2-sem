@@ -1,0 +1,24 @@
+# ninja log v5
+85	198	1653248610209194310	cubik_rubik	3f5b43330bbcbed2
+2	887	1653079546799138655	CMakeFiles/cubik_rubik.dir/FileManager.cpp.o	91439b35507e2ab2
+1	38	1654430527099185005	build.ninja	dc26e282b78875a6
+2	576	1653248570565078037	CMakeFiles/cubik_rubik.dir/Window.cpp.o	1fb7e96fd17f659e
+2	1504	1653248571493081009	CMakeFiles/cubik_rubik.dir/Cube.cpp.o	4eda6258b7ee7da3
+1	1081	1653248571069079655	CMakeFiles/cubik_rubik.dir/main.cpp.o	658e1e0b5e3224a2
+576	1128	1653248571117079808	CMakeFiles/cubik_rubik.dir/WrapperClass.cpp.o	c28bf0c486bce8cf
+2	1098	1653148159196750371	CMakeFiles/cubik_rubik.dir/Brick.cpp.o	5d8d3b841b9dd28a
+1	85	1653248610097194012	CMakeFiles/cubik_rubik.dir/Camera.cpp.o	8028496420f6ece
+126	667	1653248570657078333	CMakeFiles/cubik_rubik.dir/EventHelper.cpp.o	7ac4081fd278375d
+2	827	1653248570817078846	CMakeFiles/cubik_rubik.dir/Events.cpp.o	b7fa38c2ed8b7746
+3	1253	1653248571241080204	CMakeFiles/cubik_rubik.dir/Alghoritms.cpp.o	7fdc8642759e1cb7
+2	117	1654430530799210629	CMakeFiles/cubik_rubik.dir/Camera.cpp.o	8028496420f6ece
+117	741	1654430531423214948	CMakeFiles/cubik_rubik.dir/FileManager.cpp.o	91439b35507e2ab2
+2	781	1654430531463215225	CMakeFiles/cubik_rubik.dir/Brick.cpp.o	5d8d3b841b9dd28a
+2	849	1654430531531215695	CMakeFiles/cubik_rubik.dir/Window.cpp.o	1fb7e96fd17f659e
+2	888	1654430531571215972	CMakeFiles/cubik_rubik.dir/Events.cpp.o	b7fa38c2ed8b7746
+1	1153	1654430531835217799	CMakeFiles/cubik_rubik.dir/main.cpp.o	658e1e0b5e3224a2
+781	1490	1654430532171220124	CMakeFiles/cubik_rubik.dir/EventHelper.cpp.o	7ac4081fd278375d
+849	1564	1654430532247220650	CMakeFiles/cubik_rubik.dir/WrapperClass.cpp.o	c28bf0c486bce8cf
+2	1771	1654430532451222062	CMakeFiles/cubik_rubik.dir/Cube.cpp.o	4eda6258b7ee7da3
+741	1883	1654430532563222836	CMakeFiles/cubik_rubik.dir/Alghoritms.cpp.o	7fdc8642759e1cb7
+1883	2007	1654430532687223695	cubik_rubik	3f5b43330bbcbed2
