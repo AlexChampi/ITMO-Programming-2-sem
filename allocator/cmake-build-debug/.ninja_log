@@ -1,0 +1,10 @@
+# ninja log v5
+0	30	1654426133624936702	build.ninja	e2d055b5941300f1
+1067	1143	1654426043512726126	allocator	8ae5d385fdd6bf35
+1	688	1654426043060725171	CMakeFiles/allocator.dir/Allocator.cpp.o	c34a2e0a896dd1db
+1	1067	1654426043436725966	CMakeFiles/allocator.dir/main.cpp.o	eb764318e01a04c4
+1	504	1654426042876724783	CMakeFiles/allocator.dir/Pool.cpp.o	d40e8757ebf6a014
+1	345	1654426137824947435	CMakeFiles/allocator.dir/Pool.cpp.o	ad06ab944e511ea8
+1	453	1654426137928947702	CMakeFiles/allocator.dir/Allocator.cpp.o	1152cd517ed7fe3f
+1	841	1654426138316948697	CMakeFiles/allocator.dir/main.cpp.o	aa03b578feb2d626
+841	934	1654426138412948944	allocator	8ae5d385fdd6bf35
