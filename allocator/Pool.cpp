@@ -17,7 +17,7 @@ public:
         begin = new Chunk[chunks_count * size];
         auto *chunk = begin;
         for (std::size_t i = 0; i < chunks_count; ++i) {
-            chunk->next = new Chunk(*(begin + i));
+            chunk->next = new (begin + i) Chunk{};
             chunk = chunk->next;
         }
         chunk->next = nullptr;
