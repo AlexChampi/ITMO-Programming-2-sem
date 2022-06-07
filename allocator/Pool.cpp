@@ -15,8 +15,8 @@ private:
     [[nodiscard]] Chunk *create_chuncks(size_t size) const {
         auto *first_chunk = new Chunk[chunks_count * size];
         auto *chunk = first_chunk;
-        for (int i = 0; i < chunks_count; ++i) {
-            chunk->next = new Chunk(*reinterpret_cast<Chunk *>(reinterpret_cast<std::byte *>(chunk) + size));
+        for (std::size_t i = 0; i < chunks_count; ++i) {
+            chunk->next = new Chunk(*(first_chunk + i));
             chunk = chunk->next;
         }
         chunk->next = nullptr;
@@ -30,9 +30,9 @@ public:
               begin(cur_chunk) {}
 
     void *allocate(std::size_t size) {
-        Chunk *freeChunk = cur_chunk;
+        Chunk *chunk = cur_chunk;
         cur_chunk = cur_chunk->next;
-        return freeChunk;
+        return chunk;
     }
 
     void deallocate(void *ptr, std::size_t size) {
